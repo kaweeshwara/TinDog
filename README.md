@@ -32,4 +32,4 @@ Check out the live website here: [TinDog Live Demo](https://kaweeshwara.github.i
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tindog.git
+   git clone https://github.com/kaweeshwara/tindog.git
