@@ -4,7 +4,7 @@ TinDog is a fun and modern Tinder-like app designed specifically for dog lovers!
 
 ---
 
-## 📸 
+
 ![Website Screenshot](images/readme.png)
 
 ---
